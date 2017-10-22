@@ -8,6 +8,13 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+
+
+
+<!-- Slider CSS -->
+<link rel="stylesheet" href="{{ "/path/to/ideal-image-slider.css" | relative_url }}">
+<link rel="stylesheet" href="{{ "/path/to/themes/default.css" | relative_url }}">
+
 /* Banner */
 	@-moz-keyframes reveal-banner { 0% { opacity: 0; } 100% { opacity: 1; } }
 	@-webkit-keyframes reveal-banner { 0% { opacity: 0; } 100% { opacity: 1; } }
